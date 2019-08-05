@@ -1,0 +1,161 @@
+/*  ESTILOS PAGINA PRINCIPAL */
+body{
+    color: #FCFCFC;
+
+}
+#img-fondo{
+background: url(fondo5.png);
+padding-bottom: 5%;
+}
+.navegador{
+    padding-top: 2%; 
+    padding-bottom: 3%; 
+}
+#imagen-principal{
+    margin: 11% 0 0 0%;
+}
+#imagen-miramas{
+    margin:10% 0 0 38%;
+}
+
+/*  ESTILOS GENERALES  */
+h1{
+    font-family: 'Noto Sans SC', sans-serif; 
+    font-size: 90px;
+    padding: 13% 0 22% 0;
+    color: #101125;  
+}
+h2{
+    font-family:'Noto Sans SC', sans-serif;
+    font-size: 40px;
+    color: #424040;
+}
+h3{
+    font-family: 'Noto Sans SC', sans-serif; 
+    font-size: 22px;
+    color: #101125; 
+}
+p{
+    font-size: 165x;
+    color: #101125; 
+    font-family: 'Noto Sans SC', sans-serif; 
+}
+h4{
+    font-size: 18px;
+    font-family:'Noto Sans SC', sans-serif; 
+    color: #101125; 
+}
+h5{
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 300;
+}
+
+
+/*SECCIÓN PROYECTOS*/ 
+
+.titulo-proyect{
+    text-align: center;
+    margin: 3% 0 6% 0;
+}
+.proyectos-inicio{
+    text-align: center;
+}
+#container2{
+    margin-top:6%;
+}
+
+.proyect{
+    margin-bottom: 7%;
+}
+.btn-proyecto{
+    margin-top: 8%;
+}
+.btn-proyect:hover{
+    opacity: .4;
+}
+
+
+/* FOOTER */
+
+footer{
+    margin-top: 5%;
+    padding: 4%;
+    padding-bottom: 2%;
+    background: #232323;
+}
+.footer-frase{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.btn-contacto{
+    margin-left: 38%;
+    margin-bottom: 4%;
+    margin-top: 3%;
+   
+}
+.btn-contacto :hover{
+    opacity: .8 ;
+}
+.prototipo :hover{
+    opacity: .8;
+}
+#name-footer{
+  text-align: left;
+    color: white;
+}
+
+/*  Estilos SOBRE MI */
+.titulo-sobremi{
+    text-align: center;
+    margin: 7% 0 7% 0;
+}
+.sobremi{
+  text-align: center;
+    margin: 0 0 6% 0;
+}
+.btn-cv{
+    margin-left:27%;
+    margin-bottom: 10%;   
+}
+.btn-cv:hover{
+    opacity: .8;
+}
+.btn-cv2:hover{
+    opacity: .8;
+}
+
+#habilidades{
+    margin-bottom: 3%;
+}
+
+/*CUMPLO ZONA*/
+
+.cumplo , .sobre-cumplo{
+    text-align: center;
+    margin-bottom: 7%;
+}
+#titulo-cumplo{
+    margin: 7% 0 4% 0;
+}
+#titulo-valora{
+    margin: 7% 0 4% 0;
+}
+ .embed-preview embed-preview--show{
+     border: none;
+     background: #fff;
+ }
+.problem{
+    margin-top: 8%;
+}
+#ideacion-cumplo{
+    margin-left: 19%;
+}
+
+/*VALORA ZONA*/
+
+
+
+ 
+
